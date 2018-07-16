@@ -95,6 +95,22 @@ var FrontGuide = {
         }, {
             "pageT2": "前端常用",
             "pageC2": [{
+                'Name': 'HIGHCHARTS 图表',
+                'Title': '高颜值的图表库，商用付费',
+                'Href': 'https://www.hcharts.cn/products/highcharts'
+            }, {
+                'Name': 'layui文档',
+                'Title': '经典模块化前端框架',
+                'Href': 'http://www.layui.com/'
+            }, {
+                'Name': 'EasyUI中文示例文档',
+                'Title': 'EasyUI快速查询',
+                'Href': 'http://www.java1234.com/easyui.html'
+            }, {
+                'Name': 'Bootscript可视化开发',
+                'Title': '进行拖拽布局',
+                'Href': 'http://www.bootcss.com/p/layoutit/'
+            },{
                 'Name': 'jQuery 中文API',
                 'Title': '印记中文出品',
                 'Href': 'https://www.jquery123.com/'
@@ -224,6 +240,14 @@ var FrontGuide = {
                 'Name': 'Multi-service',
                 'Title': '二刺螈图片搜索',
                 'Href': 'https://iqdb.org/'
+            },{
+                'Name': '草料二维码',
+                'Title': '二维码生成',
+                'Href': 'https://cli.im/'
+            },{
+                'Name': '小熊JPG在线工具',
+                'Title': '图片综合处理、水平翻转、裁剪、格式转换以及转PDF等',
+                'Href': 'https://www.bearjpg.com/zh'
             }]
         }, {
             "pageT2": "安全检测",
